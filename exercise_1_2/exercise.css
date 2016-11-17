@@ -1,0 +1,11 @@
+div {
+  margin-bottom: 5px;
+  background-color: steelblue;
+  text-align: right;
+  color: white;
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 15px;
+  padding-top: 3px;
+  padding-right: 3px;
+}

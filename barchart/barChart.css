@@ -1,0 +1,22 @@
+.container {
+  border:1px solid grey;
+}
+
+svg {
+  margin-top: 6px;
+  margin-left: 6px;
+	border:1px solid steelblue;
+}
+
+path {
+  stroke-width: 1;
+}
+
+.numbers {
+  stroke: seagreen;
+  fill: none;
+}
+
+.rect {
+  color: steelblue;
+}

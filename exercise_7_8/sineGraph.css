@@ -1,0 +1,10 @@
+.linechart {
+    stroke: steelblue;
+    stroke-width: 2px;
+    fill: none;
+}
+
+circle {
+    fill: white;
+    stroke: steelblue;
+}

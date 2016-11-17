@@ -1,0 +1,7 @@
+.number {
+  display: inline-block;
+  border: solid 1px grey;
+  margin: 5px;
+  vertical-align: top;
+  padding: 0 15px;
+}

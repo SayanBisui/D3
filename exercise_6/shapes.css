@@ -1,0 +1,26 @@
+svg {
+  padding-top: 10px;
+}
+
+line {
+  stroke: grey;
+  stroke-width: 2px;
+}
+
+circle {
+  stroke: red;
+  stroke-width: 2px;
+  fill: none;
+}
+
+rect {
+  stroke: steelblue;
+  stroke-width: 2px;
+  fill: none;
+}
+
+polygon {
+  stroke: green;
+  stroke-width: 2px;
+  fill: none;
+}

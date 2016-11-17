@@ -1,0 +1,27 @@
+.container {
+  border:1px solid grey;
+}
+
+svg {
+  margin-top: 6px;
+  margin-left: 6px;
+	border:1px solid steelblue;
+}
+
+path {
+  stroke-width: 1;
+}
+
+.numbers {
+  stroke: seagreen;
+  fill: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+.linechart{
+  stroke: red;
+  fill:none;
+}

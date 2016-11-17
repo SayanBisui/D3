@@ -1,0 +1,9 @@
+td {
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  font-style: italic;
+  font-family: serif;
+  border: solid 1px grey;
+  border-radius: 10px;
+}
