@@ -1,0 +1,15 @@
+.sinLine{
+  stroke: steelblue;
+  stroke-width: 3px;
+  fill: none;
+}
+
+circle {
+    stroke: steelblue;
+    fill: white;
+}
+
+.area {
+  fill: #c6dbef;
+  opacity: 0.4;
+}
